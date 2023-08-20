@@ -9,10 +9,11 @@ Welcome to the News Web App project! This web application provides real-time new
 
 # Screenshots
 <img width="950" alt="image" src="https://github.com/Dhananjay-Singh1/News-Web-App/assets/140902867/8fff5bbe-a983-4dbb-8efd-baa1c86f1fce">
-Description:- Upon opening the web app, you'll be presented with the latest news articles.
+    Description:- Upon opening the web app, you'll be presented with the latest news articles.
+    
 
 <img width="950" alt="image" src="https://github.com/Dhananjay-Singh1/News-Web-App/assets/140902867/7c7a2e4d-17db-4fd3-8ebd-d76c3dadd4a8">
-Description :- Search specific news using  an intuitive search functionality.
+    Description :- Search specific news using  an intuitive search functionality.
 
 # Installation
 1. Clone this repository to your local machine.
